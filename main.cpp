@@ -1,5 +1,7 @@
 #include <Novice.h>
 #include "GameManager.h"
+
+
 const char kWindowTitle[] = "LE2C_02_イシワタ_クウタ";
 
 // Windowsアプリでのエントリーポイント(main関数)
